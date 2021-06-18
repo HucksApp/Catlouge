@@ -1,1 +1,0 @@
-GraphQl server and React Ui
